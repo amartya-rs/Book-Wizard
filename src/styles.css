@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  background-color: darkorchid;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 0;
+  color: white;
+}
+
+button {
+  padding: 0.45rem;
+  margin: 0.5rem;
+  border-radius: 0.35rem;
+  cursor: pointer;
+  background-color: orchid;
+  font-weight: bold;
+}
+
+.output-div {
+  height: 6rem;
+  width: 40%;
+  margin: auto;
+  margin-top: 1.3rem;
+  border: 2px groove darkorchid;
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+
+.divh3 {
+  margin: 0.25rem;
+  padding: 0rem;
+}
+
+span {
+  display: block;
+  margin: 0.5rem;
+  font-size: x-large;
+}
