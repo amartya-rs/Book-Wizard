@@ -31,10 +31,11 @@ button {
 }
 
 .output-div {
-  height: 6rem;
-  width: 40%;
+  height: 11rem;
+  width: 65%;
   margin: auto;
   margin-top: 1.3rem;
+  margin-bottom: 0.8rem;
   border: 2px groove darkorchid;
   border-radius: 1rem;
   padding: 0.5rem;
